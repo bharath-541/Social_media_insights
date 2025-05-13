@@ -75,17 +75,17 @@ Based on the provided data, we can compare the average engagement of Reels, Imag
 **Reels:**
 
 - **Total Engagement:** There are three reels. Reel 1 (Post ID 18252308083274439) had 27 engagements (17 likes + 10 comments). Reel 2 (Post ID 18352223557192810) had 28 engagements (16 likes + 12 comments). Reel 3 (Post ID 18113657428435442) had 25 engagements (14 likes + 11 comments). The total engagement for reels is 80.
-- **Average Engagement per Reel:** 80 / 3 = 26.67
+- **Average Engagement per Reel:** 80 / 3 = 26.67.
 
 **Images:**
 
 - **Total Engagement:** There are four image posts. Post ID 17906123985009386 had 9 engagements (7 likes + 2 comments). Post ID 18121412002409588 had 8 engagements (7 likes + 1 comment). Post ID 18044329751240060 had 10 engagements (9 likes + 1 comment).
-- **Average Engagement per Image:** 27 / 4 = 6.75
+- **Average Engagement per Image:** 27 / 4 = 6.75.
 
 **Carousel Albums:**
 
 - **Total Engagement:** There are three carousel album posts. Post ID 18265371160268031 had 13 engagements (11 likes + 2 comments). Post ID 18102325633469516 had 13 engagements (10 likes + 3 comments). Post ID 18450562792070129 had 13 engagements (10 likes + 3 comments). The total engagement for carousel albums is 39.
-- **Average Engagement per Carousel Album:** 39 / 3 = 13
+- **Average Engagement per Carousel Album:** 39 / 3 = 13.
 
 **Conclusion:**
 
